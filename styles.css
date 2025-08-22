@@ -1,0 +1,33 @@
+body {
+  margin: 0;
+  height: 60vh;
+  background-size: cover;
+  background-image: url(news.jpeg);
+  background-position: center;
+  background-repeat: no-repeat;
+  font-family: Arial, sans-serif;
+  color: rgb(0, 0, 0);
+}
+.container img{
+    border-radius: 50%;
+    position: absolute;
+    left: 65%;
+    top: 3%;
+    height: 40%;
+}
+.container p{
+    font-size: 25px;
+    font-weight: 600;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.header h1{
+    font-size: 35px;
+}
+footer p{
+    position: absolute;
+    right: 40%;
+    top: 88%;
+    font-weight: 400;
+    font-size: 30px;
+    background-color: chocolate;
+}
